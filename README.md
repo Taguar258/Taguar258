@@ -52,7 +52,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=taguar258&cover_image=true&theme=compact" /></div>  
+<!--<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=taguar258&cover_image=true&theme=compact" /></div>-->
 
 <br/>  
 
