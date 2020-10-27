@@ -41,7 +41,6 @@
 
 
 ## Connect with me  
-<h3 align="left">Reach out to me:</h3>
 ![Discord](https://img.shields.io/discord/757218750003937380?color=%237289DA&label=Chat&logo=Discord&logoColor=white) <br> <a href="mailto:taguar258@hash.fyi" target="_blank">![E-Mail](https://img.shields.io/badge/E--Mail-Contact%20Me-red)</a>
   
 
