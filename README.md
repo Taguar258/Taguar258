@@ -41,7 +41,7 @@
 
 
 ## Connect with me  
-![Discord](https://img.shields.io/discord/757218750003937380?color=%237289DA&label=Chat&logo=Discord&logoColor=white) <br> <a href="mailto:taguar258@hash.fyi" target="_blank">![E-Mail](https://img.shields.io/badge/E--Mail-Contact%20Me-red)</a>
+<a href="https://discord.gg/8xA4RabVQq" target="_blank">![Discord](https://img.shields.io/discord/757218750003937380?color=%237289DA&label=Chat&logo=Discord&logoColor=white) </a> <br> <a href="mailto:taguar258@hash.fyi" target="_blank">![E-Mail](https://img.shields.io/badge/E--Mail-Contact%20Me-red)</a>
   
 
 <br/>  
