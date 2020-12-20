@@ -25,12 +25,22 @@
 
 ## My Skill Set  
 
+
+Use it all the time:
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  
+</div>
+
+<br>
+
+Used it before:
+
+<div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -44,7 +54,7 @@
 
 
 ## Connect with me  
-<a href="https://discord.gg/8xA4RabVQq" target="_blank">![Discord](https://img.shields.io/discord/757218750003937380?color=%237289DA&label=Chat&logo=Discord&logoColor=white) </a> <br> <a href="mailto:taguar258@hash.fyi" target="_blank">![E-Mail](https://img.shields.io/badge/E--Mail-Contact%20Me-red)</a>
+<a href="mailto:taguar258@hash.fyi" target="_blank">![E-Mail](https://img.shields.io/badge/E--Mail-Contact%20Me-red)</a>
   
 
 <br/>  
