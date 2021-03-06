@@ -6,18 +6,16 @@
 ### <div align="center">You could best describe me as a software enthusiast.</div>  
   
 
-- I am mostly programming in **python**.  
+- I prefer **python** over other languages.  
   
 
 - I am real bad at **frontend stuff**.  
   
 
-- I was mostly interested in **penetration testing**.  
+- I was interested in **penetration testing**.  
   
 
 - I speak **English, German and French**.  
-
-- Fun fact: I prefer to use tabs over spaces .
 
 
 <br/>  
