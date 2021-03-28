@@ -12,14 +12,14 @@
 - I am real bad at **frontend stuff**.  
   
 
-- I was interested in **penetration testing**.  
+- I have experience in **penetration testing, gnu linux, and coding**.  
   
 
 - I speak **English, German and French**.  
 
 
 <br/>  
-
+<!--
 
 ## My Skill Set  
 
@@ -49,6 +49,7 @@ Used it before:
 </div>
 
 <br/>  
+-->
 
 
 ## Connect with me  
@@ -57,13 +58,13 @@ Used it before:
 
 <br/>  
 
-
+<!--
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=taguar258&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
 <br/>  
-
+-->
   
 
 <br/>  
