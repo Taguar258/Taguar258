@@ -6,7 +6,7 @@
 ### <div align="center">You could best describe me as a software enthusiast.</div>  
   
 
-- I prefer **python** over other languages.  
+- I prefer **python** and **rust** over other languages.  
   
 
 - I am real bad at **frontend stuff**.  
